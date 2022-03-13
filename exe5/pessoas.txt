@@ -1,0 +1,4 @@
+Joca Gaio;20/9/1987;Rua do meio n 4;25023;Ferragem;
+Ana Rola;4/2/1990;Rua da esquerda n 3;25024;Comercial;
+Nuno;2/3/2005;Rua do Nuno;77665;Vendedor;
+Maria;3/3/1998;Rua da Maria;77555;Secretaria;

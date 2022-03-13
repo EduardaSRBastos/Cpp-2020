@@ -1,0 +1,4 @@
+Pessoa:Joca Gaio;Rua do meio n 4;Data:20/9/1987;25023;Ferragem;
+Pessoa:Ana Rola;Rua da esquerda n 3;Data:4/2/1990;25024;Comercial;
+Pessoa:ana mendes;mora da ana;Data:1/2/2020;12344;ferr;
+Pessoa:joana;morada da Xu;Data:3/4/1955;432;sec;
